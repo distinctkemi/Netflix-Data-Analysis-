@@ -4,7 +4,7 @@ Netflix is an online streaming platform with a wide variety of movies and TV sho
 Detailed report can be found [here](https://github.com/distinctkemi/Netflix-Data-Analysis-/blob/main/Netflix%20data%20analysis%20%20report.pdf)
 
 
-[!alt text](https://github.com/distinctkemi/Netflix-Data-Analysis-/blob/main/Netflix%20Dashboard%20Image.jpeg)
+[!alt txt](https://github.com/distinctkemi/Netflix-Data-Analysis-/blob/main/Netflix%20Dashboard%20Image.jpeg)
 
 |Column |Description |
 |--------|-------------|
