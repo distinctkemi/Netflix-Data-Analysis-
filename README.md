@@ -1,7 +1,9 @@
-# Netflix-Data-Analysis
+# Read Me
 Introduction: 
 Netflix is an online streaming platform with a wide variety of movies and TV shows available to its users. In this project, we analyse a dataset with information about the movies and TV shows available on Netflix. The dataset has 8800 rows and 12 columns, and we will use data visualisation tools to explore it.
-Detailed report can be found [here]()
+Detailed report can be found [here](https://github.com/distinctkemi/Netflix-Data-Analysis-/blob/main/Netflix%20data%20analysis%20%20report.pdf)
+
+
 [!alt text](https://github.com/distinctkemi/Netflix-Data-Analysis-/blob/main/Netflix%20Dashboard%20Image.jpeg)
 
 |Column |Description |
